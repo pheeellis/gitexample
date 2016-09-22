@@ -1,0 +1,6 @@
+github - repository where code is stored
+cloning remote - downloading repository from github server onto your local computer
+cloning local - create different version of code on your desktop
+adding files
+deleting/removing files
+
