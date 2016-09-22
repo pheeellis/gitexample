@@ -4,3 +4,8 @@ cloning local - create different version of code on your desktop
 adding files
 deleting/removing files
 
+commit and synchronize
+-pull: grab updated info from remote repo
+-commit: record chances being made on local 
+-push: 
+
